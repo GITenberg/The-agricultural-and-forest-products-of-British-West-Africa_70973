@@ -1,0 +1,30 @@
+_repo: The-agricultural-and-forest-products-of-British-West-Africa_70973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dudgeon, Gerald C.
+    gutenberg_agent_id: '56017'
+    url: http://www.gutenberg.org/2009/agents/56017
+  editor:
+    agent_name: Dunstan, Wyndham R.
+    gutenberg_agent_id: '56018'
+    url: http://www.gutenberg.org/2009/agents/56018
+description: ''
+gutenberg_issued: '2023-06-14'
+identifiers:
+  gutenberg: '70973'
+language: en
+pgterms:marc904: https://archive.org/details/agriculturalfore00dudguoft
+pgterms:marc905: 20230602023124dudgeon
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Murray, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The agricultural and forest products of British West Africa
+url: http://www.gutenberg.org/ebooks/70973
