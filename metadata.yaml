@@ -1,5 +1,8 @@
 _repo: The-agricultural-and-forest-products-of-British-West-Africa_70973
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70973-h/images/cover.jpg
 creator:
   author:
     agent_name: Dudgeon, Gerald C.
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '56018'
     url: http://www.gutenberg.org/2009/agents/56018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70973#The-agricultural-and-forest-products-of-British-West-Africa
 gutenberg_issued: '2023-06-14'
 identifiers:
   gutenberg: '70973'
